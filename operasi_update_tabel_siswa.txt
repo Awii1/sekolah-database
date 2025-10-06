@@ -1,0 +1,7 @@
+|id |nama|umur|jurusan|
+|---|----|----|-------|
+|1  |Andi|16  |IPA    |
+|3  |Awii|17  |IPA    |
+|4  |Anda|16  |IPS    |
+|5  |Dina|17  |IPA    |
+|2  |Budi|17  |IPA    |

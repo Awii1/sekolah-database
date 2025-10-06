@@ -1,0 +1,6 @@
+|id |siswa_id|mata_pelajaran|nilai|
+|---|--------|--------------|-----|
+|2  |2       |Bahasa Inggris|90   |
+|3  |3       |PPKn          |70   |
+|4  |4       |Sosial        |90   |
+|5  |5       |IPA           |90   |
