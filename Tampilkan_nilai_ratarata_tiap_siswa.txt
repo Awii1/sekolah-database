@@ -1,0 +1,7 @@
+|nama|rata_nilai|
+|----|----------|
+|Dina|90        |
+|Anda|90        |
+|Andi|85        |
+|Budi|90        |
+|Awii|70        |
